@@ -220,18 +220,13 @@ function Home() {
                 </div>
                 <div>
                   <p className="text-white/80 leading-relaxed text-lg">
-                    I am a Game Design student with a strong interest in
-                    creating interactive and engaging game experiences. I enjoy
-                    designing simple and effective gameplay mechanics and
-                    building playable prototypes using Unity. I have hands-on
-                    experience with basic C# scripting, UI/UX design, and visual
-                    design for games. Through academic and personal projects, I
-                    focus on improving player experience, level flow, and
-                    interface clarity. I enjoy learning new tools and
-                    experimenting with ideas to grow as a game designer. I am
-                    currently seeking internship or entry-level opportunities in
-                    Game Design where I can learn, contribute, and improve my
-                    skills.
+                    My name is Ajay M, a dedicated game designer and Unity
+                    developer with hands-on experience in game design, level
+                    design, scripting, and visual effects. I enjoy combining
+                    creativity with technical expertise to create immersive,
+                    story-focused gameplay experiences. From designing engaging
+                    puzzles to building expansive worlds, I aim to tell
+                    meaningful stories through player interaction.
                   </p>
                   <Button
                     onClick={() => scrollToSection("contact")}
@@ -632,7 +627,6 @@ function Home() {
           </div>
         </div>
       </section>
-
       {/* Footer */}
       <footer className="relative py-8 px-6 z-10">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
