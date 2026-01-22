@@ -371,14 +371,14 @@ function Home() {
                 category: "AR",
                 image:
                   "https://static.vecteezy.com/system/resources/previews/029/111/423/non_2x/immersive-vr-experience-exploring-virtual-reality-with-vr-glasses-on-color-full-background-created-with-generative-ai-free-photo.jpeg",
-                link: "https://github.com/Ajayitachi/Zombie",
+                link: "https://github.com/Ajayitachi/Virtual-Reality-And-Augmented-Reality.git",
               },
               {
                 title: "VR",
                 category: "VR",
                 image:
                   "https://th.bing.com/th/id/OIP._bi8Yt0YOy6CqIo7wYiUxQHaEK?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
-                link: "https://github.com/Ajayitachi/Zombie",
+                link: "https://github.com/Ajayitachi/Virtual-Reality-And-Augmented-Reality.git",
               },
             ].map((project, index) => (
               <div
